@@ -27,7 +27,7 @@ If you don't use Pycharm:
 	- pip install requests
 	- pip install sqlite3
 	- pip install haversine
-- Add zipcode as a local module
+- Add zipcode as a local module by typing these Python commands (you can type python before them while using the command line)
 	- import sys
 	- sys.path.append("/path/to/your/zipcode/directory")
 	- import zipcode
